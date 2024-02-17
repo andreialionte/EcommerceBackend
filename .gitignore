@@ -2,4 +2,15 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+# User Secrets
+*.csproj.user
+*.user
+*.suo
+*.userprefs
+/Ecommerce2/*.csproj.user
+/Ecommerce2/*.user
+/Ecommerce2/*.suo
+/Ecommerce2/*.userprefs
 .vs/
+
+
